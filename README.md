@@ -38,9 +38,8 @@ Press = to see the result.
 
 Press C to clear the input.
 
-Screenshots
-
-
+Screenshot
+![Calculator Screenshot](calci.png)
 
 Technologies Used
 
