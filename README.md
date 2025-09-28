@@ -1,50 +1,38 @@
-Calculator
+# Calculator
 
-A simple and user-friendly calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations easily in the browser.
+A user-friendly calculator built with HTML, CSS, and JavaScript, allowing quick and easy basic arithmetic operations.
+## Screenshot
+![Project Screenshot](calci.png)
 
-Features
+##  Technologies Used
 
-Perform Addition, Subtraction, Multiplication, and Division
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+##  Features
 
-Clear button to reset input
+- Perform Addition, Subtraction, Multiplication, and Division
+- Clear button to reset input
+- Responsive design works on desktop and mobile devices
+- Interactive buttons for easy input
+- Lightweight and fast
 
-Responsive design works on desktop and mobile devices
+##  Usage
 
-Interactive buttons for easy input
+- Click on the number buttons to input digits.
+- Use operator buttons (+, -, *, /) to perform calculations.
+- Press = to see the result.
+- Press C to clear the input.
 
-Lightweight and fast
+##  How It Works
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/SarveshGBamane/Calculator.git
-
-
-Navigate to the project folder:
-
-cd Calculator
+- The calculator uses JavaScript to handle button clicks and perform calculations.
+- Event listeners are added to each button to detect clicks.
+- When a number or operator is clicked, it is displayed in the input field.
+- Pressing = evaluates the expression using JavaScript's `eval()` function.
+- Pressing C clears the input field for a new calculation.
+- The design is handled with CSS to make the calculator visually appealing and responsive.
 
 
-Open index.html in your web browser.
 
-Usage
-
-Click on the number buttons to input digits.
-
-Use operator buttons (+, -, *, /) to perform calculations.
-
-Press = to see the result.
-
-Press C to clear the input.
-
-Screenshot
-![Calculator Screenshot](calci.png)
-
-Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
