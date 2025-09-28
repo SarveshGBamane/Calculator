@@ -25,14 +25,13 @@ A user-friendly calculator built with HTML, CSS, and JavaScript, allowing quick 
 - Press = to see the result.
 - Press C to clear the input.
 
-##  How It Works
+## How It Works
 
-- The calculator uses JavaScript to handle button clicks and perform calculations.
-- Event listeners are added to each button to detect clicks.
-- When a number or operator is clicked, it is displayed in the input field.
-- Pressing = evaluates the expression using JavaScript's `eval()` function.
-- Pressing C clears the input field for a new calculation.
-- The design is handled with CSS to make the calculator visually appealing and responsive.
+- JavaScript handles button clicks and calculations.
+- Numbers/operators appear in the input field.
+- `=` evaluates the expression, `C` clears it.
+- CSS and Tailwind CSS make it responsive and visually appealing.
+
 
 
 
